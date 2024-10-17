@@ -1,3 +1,18 @@
 /logs/
 /.idea/
 /package/
+
+### VS Code ###
+.vscode/
+
+### Frontend ###
+node_modules/
+
+target/
+
+.flattened-pom.xml
+package-lock.json
+lego-parent/lego-admin/src/main/resources/static
+vue-ui/node/*
+vue-ui/dist/*
+vue-ui/**/*.proxy.js
